@@ -1,0 +1,14 @@
+Notebook: Feature scaling, Label encoding, one hot encoding and K-Fold Cross Validation
+
+Topics Covered:
+- StandardScaler vs MinMaxScaler with real examples (age & salary data)
+- LabelEncoder (ordinal data) with caution warnings
+- OneHotEncoder vs pd.get_dummies for nominal data
+- 5-Fold Cross Validation on breast cancer dataset
+- Proper fit_transform() vs transform() usage
+
+Dataset Used: sklearn.datasets.load_breast_cancer (569 samples, 30 features)
+
+Code Quality: ✓ Working, restart & run all cells works
+
+Best For: ML beginners learning preprocessing techniques
